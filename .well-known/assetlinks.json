@@ -1,9 +1,9 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
-    "namespace": "android_app",
-    "package_name": "com.example.deeplink_cookbook",
+    "namespace": "com.envisionai.storycraftr",
+    "package_name": "com.envisionai.storycraftr",
     "sha256_cert_fingerprints":
-    ["FF:2A:CF:7B:DD:CC:F1:03:3E:E8:B2:27:7C:A2:E3:3C:DE:13:DB:AC:8E:EB:3A:B9:72:A1:0E:26:8A:F5:EC:AF"]
+    ["6B:AB:39:4C:8E:83:CF:5F:1A:9B:7A:10:79:42:F5:FB:28:8B:30:A5:88:BA:E1:04:4E:2F:07:B5:E8:38:4D:3A"]
   }
 }]
